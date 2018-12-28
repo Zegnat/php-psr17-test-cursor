@@ -1,6 +1,6 @@
 # Test Stream Factory Cursor
 
-Testing [psr/http-factory-implementation (PSR-17) providers][providers] to see where they put the file cursor after creating a PSR-7 stream.
+Comparing [psr/http-factory-implementation (PSR-17) providers][providers] to see where they put the file cursor after creating a PSR-7 stream.
 
 ## Methodology
 
