@@ -1,0 +1,15 @@
+{
+    "require": {
+        "zendframework/zend-diactoros": "^2.1",
+        "nyholm/psr7": "^1.0",
+        "http-interop/http-factory-guzzle": "^1.0",
+        "http-interop/http-factory-slim": "^1.0",
+        "berlioz/http-message": "dev-develop",
+        "phpunit/phpunit": "^7.5",
+        "psr/http-factory": "^1.0",
+        "psr/http-message": "^1.0"
+    },
+    "scripts": {
+        "test": "vendor/bin/phpunit"
+    }
+}
